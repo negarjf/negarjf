@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+- 🔭 I’m currently working at **[Loudly](https://www.loudly.com/)**
+- 💬 Ask me about CSS, Vue.js or React.js
+- 📫 How to reach me: n.jamalifard@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I need Black metal to write code. :metal:
+
+
+
 <!--
 **negarjf/negarjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
