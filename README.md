@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working at **[Loudly](https://www.loudly.com/)**
+- 🔭 I’m currently working at **[Lightspeed](https://www.lightspeedhq.com/)**
 - 💬 Ask me about CSS, Vue.js or React.js
 - 📫 How to reach me: n.jamalifard@gmail.com
 - 😄 Pronouns: She/Her
